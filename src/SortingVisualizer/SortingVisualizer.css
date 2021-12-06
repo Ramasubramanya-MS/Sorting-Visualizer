@@ -11,3 +11,11 @@
   display: inline-block;
   margin: 0 1px;
 }
+
+.Options{
+  top: 700px;
+  left: 700px;
+  position: absolute;
+  background-color: pink;
+  margin: 50px;
+}
