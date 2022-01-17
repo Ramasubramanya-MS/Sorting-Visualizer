@@ -1,4 +1,4 @@
-### Visit: https://main.d2dvtftuhjj92h.amplifyapp.com/ (Hosted on AWS Amplify)
+### Visit: https://main.d24of60y1augq9.amplifyapp.com/ (Hosted on AWS Amplify)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
